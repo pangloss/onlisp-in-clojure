@@ -83,3 +83,8 @@
              [(first args) (first args)]
              (next args))))
 
+
+; ---- tree macros are essentially the same as list ones
+
+; lazy stuff is primative
+
