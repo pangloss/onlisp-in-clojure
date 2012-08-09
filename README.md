@@ -4,6 +4,10 @@ Translations to Clojure of On Lisp by Paul Graham
 This is not meant to be a complete reference by any means, it was simply
 a by-product of reading the book while teaching myself Clojure.
 
+It's also a work in progress and I expect to gradually work through at
+least some of the larger macros presented in the second half of the
+book.
+
 Get the Book (it's great)
 -------------------------
 
