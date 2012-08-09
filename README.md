@@ -11,7 +11,7 @@ book.
 Get the Book (it's great)
 -------------------------
 
-It's available for free [here](http://www.bookshelf.jp/texi/onlisp/onlisp.html) 
+It's available for free [here](http://www.paulgraham.com/onlisp.html)
 
 Anyway, what follows probably won't be very comprehensible without it.
 
